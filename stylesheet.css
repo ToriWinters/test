@@ -1,0 +1,23 @@
+body {
+	background-color: #b7d1c4;
+}
+
+h1 {
+	color: green;
+	font-family: Verdana;
+}
+
+p {
+	color: blue;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.ptype {
+	font-size: 16px;
+	font-family: serif;
+}
+
+#different {
+	color: black;
+}
